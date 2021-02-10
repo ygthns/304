@@ -30,11 +30,6 @@ if(q11 != null) counter++;
 
 console.log(currentWindow);
 
-if(counter < 5 && currentWindow == "/C:/Users/hdoru/Desktop/ise304%20new/result.html"){
-	alert("you have answered less than 5 questions! To display the best movie for you should answer more questions!");
-	window.location.href = "/C:/Users/hdoru/Desktop/ise304%20new/quiz.html";
-
-}
 
 console.log(counter);
 
