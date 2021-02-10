@@ -1,0 +1,41 @@
+.filmHeader{
+    text-align: center;
+    margin-top: 20px;   
+    margin-bottom: 50px;
+}
+.filmDescription{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 600px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+}
+.imgdiv{
+    text-align: center;
+}
+.filmImg{
+    width: 300px;
+}
+
+.duration{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.resultButton{
+    text-align: center;
+    margin-bottom: 300px;
+    margin-left: 300px;
+    
+}
+
+.btnLink{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.resultBtn{
+    height: 100px;
+}

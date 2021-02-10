@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    background-color: ghostwhite;
+}
+.header{
+    background-color: aquamarine;
+    padding: 10px;
+    height: 120px;
+    
+}
+.brand{
+    border: 1px solid black;
+    float: left;
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 20px;
+}
+.brandName{
+    text-align: center;
+    font-size: 30px;
+}
+
+.leftMenu{
+    float: right;
+    width: 40%;
+    height: 90px;
+}
+
+.aboutUs{
+    float: right;
+    overflow: hidden;
+    margin: 40px;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid black;
+}
+.movies{
+    float: right;
+    overflow: hidden;
+    margin: 40px;
+    font-size: 20px;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.contactUs{
+    margin: 40px;
+    font-size: 20px;
+    float: right;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.sideBarLinks{
+    text-decoration: none;
+}
+.sidebar{
+    width: 17%;
+    background-color: aquamarine;
+    float: left;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+}
+
+.sidebarBrand{
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 25px;
+    border-bottom: 1px solid black;
+}
+.dashboard{
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 21px;
+    border-bottom: 1px solid black;
+}
+
+.headerLinks{
+    text-decoration: none;
+    color: black;
+}
+
+.bodyHeader{
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.firstParagraph{
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: 20px;
+}
+
+.btnDiv{
+    margin-left: 34%;    
+    margin-top: 100px; 
+    margin-bottom: 300px;
+}
+
+.question{
+   margin-bottom: 50px;
+    
+}
+.firstUL{
+    list-style-type: none;
+
+
+}
+.questions{
+    font-size: 28px;
+}
+
+
+.filmIcon{
+    margin-left: 40%;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+.btnModified{
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+}
+
